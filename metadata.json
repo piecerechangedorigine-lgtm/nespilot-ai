@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NESPILOT AI",
+  "description": "Your AI Finance Copilot - Premium fintech OS matching Copilot Money \u0026 Revolut with glassmorphic cards, aurora backgrounds, interactive donut charts, savings progress tracking, and Gemini AI advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
